@@ -21,6 +21,14 @@ Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar ness
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 -->
 
+SAP
+<img align="center" alt="ABAP-Dev" height="30" width="40" src="img/cdnlogo.com_sap.svg">
+
+![nope](img/nope.gif)
+
+
+![comp](img/comp.gif)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
