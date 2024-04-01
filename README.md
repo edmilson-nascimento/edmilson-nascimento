@@ -42,5 +42,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" target="_blank"></a> 
   
- 
 </div>
