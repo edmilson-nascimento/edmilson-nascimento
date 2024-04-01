@@ -21,6 +21,7 @@ Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar ness
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 -->
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ui5,abap,)](https://skillicons.dev)
 
 <img align="center" alt="ABAP-Dev" height="30" width="40" src="img/cdnlogo.com_sap.svg">
 
