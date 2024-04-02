@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Salve! Eu sou a Edmilson Nascimento, criador e soluções de programação e tecnologia <i class="fas fa-desktop"></i>
+### Salve! Eu sou a Edmilson Nascimento, criador de soluções de programação e tecnologia <i class="fas fa-desktop"></i>
 <!--
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
