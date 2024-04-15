@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👨🏽‍💻🖱️⌨️💾💾🖥️
 
 ### Salve! Eu sou a Edmilson Nascimento, criador de soluções de programação e tecnologia <i class="fas fa-desktop"></i>
 
