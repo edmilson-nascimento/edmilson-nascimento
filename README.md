@@ -5,13 +5,7 @@
 | <a href="https://instagram.com/edmilson_nascimento" target="_blank"><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" target="_blank"></a> |  |  | |
 | :--- |:---------- |:------------ | :------------ |
 | <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>  | <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>  | <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>  | <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> |
- 
- 
- 
- 
- <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> 
+| <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> | <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> | <a href="https://www.linkedin.com/in/nascimentoedmilson" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> | |
   
 
   <a href="https://instagram.com/edmilson_nascimento" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
