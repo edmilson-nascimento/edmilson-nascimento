@@ -1,6 +1,7 @@
 ## Hi there 👨🏽‍💻🖱️⌨️💾💾🖥️
 
-### Salve! Eu sou a Edmilson Nascimento, criador de soluções de programação e tecnologia.
+### Salve! 
+Eu sou a Edmilson Nascimento, criador de soluções de tecnologia ~~ou pelo menos eu continuo a tentar~~.
 O algoritmo conversa com a gente. Troca uma ideia com ele e a solução vem de forma orgânica.
 
 ### Solução
