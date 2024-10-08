@@ -2,7 +2,7 @@
 
 ### Salve! 
 Eu sou a Edmilson Nascimento, criador de soluções de tecnologia ~~ou pelo menos eu continuo a tentar~~.
-O algoritmo conversa com a gente. Troca uma ideia com ele e a solução vem de forma orgânica.
+O algoritmo conversa com a gente. Tu podes trocar uma ideia com ele e a solução virá de forma orgânica.
 
 ### Solução
 Criar soluções de TI é meu passa-tempo e meu trabalho também.
