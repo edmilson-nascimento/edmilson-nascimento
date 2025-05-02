@@ -8,8 +8,6 @@ O algoritmo conversa com a gente. Tu podes trocar uma ideia com ele e a soluçã
 Eu sou **Edmilson Nascimento**, criador de soluções de tecnologia e entusiasta de inovação.  
 Acredito que a tecnologia é uma conversa contínua: com as perguntas certas, as soluções surgem de forma orgânica.
 
----
----
 
 ### 🚀 Sobre Mim / About Me
 - 💼 **Profissão**: Desenvolvedor SAP ABAP com experiência em **ABAP Cloud**, **SAP BTP**, **CDS Views** e **SQL**.
