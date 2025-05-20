@@ -32,9 +32,9 @@ Criar soluções de TI é meu passa-tempo e meu trabalho também.
 | ![BTP](https://img.shields.io/badge/SAP_BTP-0D8ECF?style=for-the-badge&logo=sap&logoColor=white) | ![CF](https://img.shields.io/badge/Cloud_Foundry-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) | ![Fiori](https://img.shields.io/badge/Fiori_UI5-2195F2?style=for-the-badge&logo=sap&logoColor=white) | ![IS](https://img.shields.io/badge/Integration_Suite-3EB3F6?style=for-the-badge&logo=sap&logoColor=white) |
 
 #### Development Tools
-| Eclipse ADT | VS Code | Git | GitHub |
-| :---: | :---: | :---: | :---: |
-| ![Eclipse](https://img.shields.io/badge/Eclipse_ADT-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| Eclipse ADT | VS Code | Git | GitHub | GitLab |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Eclipse](https://img.shields.io/badge/Eclipse_ADT-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) |
 
 #### Web Development & Databases
 | JavaScript | MySQL | PHP | HTML5 |
