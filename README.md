@@ -10,7 +10,7 @@ Acredito que a tecnologia é uma conversa contínua: com as perguntas certas, as
 
 
 ### 🚀 Sobre Mim / About Me
-- 💼 **Profissão**: Desenvolvedor SAP ABAP com experiência em **ABAP Cloud**, **SAP BTP**, **CDS Views** e **SQL**.
+- 💼 **Profissão**: Desenvolvedor SAP ABAP com experiência em **ABAP OO**, S4Hana Integrations, **ABAP Cloud**, **CDS Views** e **SQL**.
 - 🎯 **Objetivo**: Compartilhar conhecimento e colaborar em projetos que fazem a diferença.
 - 📚 **Estudo Atual**: Explorando o universo de **ABAP Cloud** e **SAP Business Technology Platform (BTP)**.
 
@@ -20,7 +20,7 @@ Acredito que a tecnologia é uma conversa contínua: com as perguntas certas, as
 Criar soluções de TI é meu passa-tempo e meu trabalho também.
 
 ### 🛠️ Habilidades Técnicas / Technical Skills
-| SAP | Git | GitHub | GitLab |
+| SAP | Git | GitHub | GitLab |   |
 | :---: | :---: | :---: | :---: |
 | ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) |
 
