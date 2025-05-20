@@ -24,12 +24,12 @@ Criar soluções de TI é meu passa-tempo e meu trabalho também.
 #### SAP Core & Cloud
 | ABAP | ABAP Cloud | RAP | CDS Views |
 | :---: | :---: | :---: | :---: |
-| ![ABAP](https://img.shields.io/badge/ABAP-2B4C7E?style=for-the-badge&logo=sap&logoColor=white) | ![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-1A936F?style=for-the-badge&logo=sap&logoColor=white) | ![RAP](https://img.shields.io/badge/RAP-3A0CA3?style=for-the-badge&logo=sap&logoColor=white) | ![CDS](https://img.shields.io/badge/CDS_Views-B5179E?style=for-the-badge&logo=sap&logoColor=white) |
+| ![ABAP](https://img.shields.io/badge/ABAP-0063B1?style=for-the-badge&logo=sap&logoColor=white) | ![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-00A6E5?style=for-the-badge&logo=sap&logoColor=white) | ![RAP](https://img.shields.io/badge/RAP-008FD3?style=for-the-badge&logo=sap&logoColor=white) | ![CDS](https://img.shields.io/badge/CDS_Views-2B95D6?style=for-the-badge&logo=sap&logoColor=white) |
 
 #### SAP Platform & UI
 | SAP BTP | Cloud Foundry | Fiori/UI5 | Integration Suite |
 | :---: | :---: | :---: | :---: |
-| ![BTP](https://img.shields.io/badge/SAP_BTP-7209B7?style=for-the-badge&logo=sap&logoColor=white) | ![CF](https://img.shields.io/badge/Cloud_Foundry-0A9396?style=for-the-badge&logo=sap&logoColor=white) | ![Fiori](https://img.shields.io/badge/Fiori_UI5-4361EE?style=for-the-badge&logo=sap&logoColor=white) | ![IS](https://img.shields.io/badge/Integration_Suite-480CA8?style=for-the-badge&logo=sap&logoColor=white) |
+| ![BTP](https://img.shields.io/badge/SAP_BTP-0D8ECF?style=for-the-badge&logo=sap&logoColor=white) | ![CF](https://img.shields.io/badge/Cloud_Foundry-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) | ![Fiori](https://img.shields.io/badge/Fiori_UI5-2195F2?style=for-the-badge&logo=sap&logoColor=white) | ![IS](https://img.shields.io/badge/Integration_Suite-3EB3F6?style=for-the-badge&logo=sap&logoColor=white) |
 
 #### Development Tools
 | Eclipse ADT | VS Code | Git | GitHub |
