@@ -2,7 +2,9 @@
 
 ### Salve! 🤙
 
-E aí! Sou o Edmilson Nascimento, um entusiasta da tecnologia que transforma ideias em código ~~ou pelo menos tenta muito fazer isso funcionar~~. Criador de soluções e apaixonado por inovação no universo SAP, acredito que cada desafio é uma oportunidade de aprendizado, e que todo bug é apenas um *feature* ainda não documentada ~~(só preciso convencer meu chefe disso)~~. 
+E aí! Sou o Edmilson Nascimento, um entusiasta da tecnologia que transforma ideias em códigos ~~ou pelo menos tenta muito fazer isso~~. Criador de soluções e apaixonado por inovação e tecnologia. 
+
+>Acredito que cada desafio é uma oportunidade de aprendizado, e que todo bug é apenas um *feature* ainda não documentada ~~(só preciso convencer meu chefe disso)~~. 
 
 No dia a dia, me divirto criando soluções que realmente fazem a diferença - seja automatizando aquela tarefa chata ou simplificando a vida das pessoas. Quando não estou debugando códigos, você pode me encontrar planejando a próxima viagem ✈️, porque às vezes a melhor solução é dar um `COMMIT` na rotina e fazer um `PUSH` para novos horizontes! 
 
