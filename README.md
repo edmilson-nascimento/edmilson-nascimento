@@ -47,4 +47,7 @@ Um exemplo interessante é o projeto [ALV em 3 Passos](https://github.com/edmils
 
 
 
-### 📫 Contato
+### 📫 Contato / Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nascimentoedmilson/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimento@abapconsulting.com.br)
