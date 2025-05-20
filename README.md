@@ -21,15 +21,20 @@ Criar soluções de TI é meu passa-tempo e meu trabalho também.
 
 ### 🛠️ Habilidades Técnicas / Technical Skills
 
-#### SAP Technologies
-| ABAP | SAP BTP | S/4HANA | CDS Views |
+#### SAP Core & Cloud
+| ABAP | ABAP Cloud | RAP | CDS Views |
 | :---: | :---: | :---: | :---: |
-| ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) | ![BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) | ![S/4HANA](https://img.shields.io/badge/S/4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) | ![CDS](https://img.shields.io/badge/CDS_Views-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) |
+| ![ABAP](https://img.shields.io/badge/ABAP-2B4C7E?style=for-the-badge&logo=sap&logoColor=white) | ![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-1A936F?style=for-the-badge&logo=sap&logoColor=white) | ![RAP](https://img.shields.io/badge/RAP-3A0CA3?style=for-the-badge&logo=sap&logoColor=white) | ![CDS](https://img.shields.io/badge/CDS_Views-B5179E?style=for-the-badge&logo=sap&logoColor=white) |
 
-#### Development & DevOps
-| Git | GitHub | GitLab | Azure DevOps |
+#### SAP Platform & UI
+| SAP BTP | Cloud Foundry | Fiori/UI5 | Integration Suite |
 | :---: | :---: | :---: | :---: |
-| ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) |
+| ![BTP](https://img.shields.io/badge/SAP_BTP-7209B7?style=for-the-badge&logo=sap&logoColor=white) | ![CF](https://img.shields.io/badge/Cloud_Foundry-0A9396?style=for-the-badge&logo=sap&logoColor=white) | ![Fiori](https://img.shields.io/badge/Fiori_UI5-4361EE?style=for-the-badge&logo=sap&logoColor=white) | ![IS](https://img.shields.io/badge/Integration_Suite-480CA8?style=for-the-badge&logo=sap&logoColor=white) |
+
+#### Development Tools
+| Eclipse ADT | VS Code | Git | GitHub |
+| :---: | :---: | :---: | :---: |
+| ![Eclipse](https://img.shields.io/badge/Eclipse_ADT-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 
 #### Web Development & Databases
 | JavaScript | MySQL | PHP | HTML5 |
