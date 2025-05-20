@@ -1,11 +1,11 @@
 ## Hi there 👨🏽‍💻🖱️⌨️💾💾🖥️
 
-### Salve! 
-Eu sou a Edmilson Nascimento, criador de soluções de tecnologia ~~ou pelo menos eu continuo a tentar~~.
-O algoritmo conversa com a gente. Tu podes trocar uma ideia com ele e a solução virá de forma orgânica.
+### Salve! 🤙
 
+E aí! Sou o Edmilson Nascimento, um entusiasta da tecnologia que transforma ideias em código ~~ou pelo menos tenta muito fazer isso funcionar~~. Criador de soluções e apaixonado por inovação no universo SAP, acredito que cada desafio é uma oportunidade de aprendizado, e que todo bug é apenas um feature ainda não documentado ~~(só preciso convencer meu chefe disso)~~. 
 
-Eu sou **Edmilson Nascimento**, criador de soluções de tecnologia e entusiasta de inovação.  
+Como desenvolvedor SAP, minha missão é criar soluções que façam diferença - seja automatizando processos ou simplificando a vida das pessoas. Quando não estou debugando códigos, você pode me encontrar planejando a próxima viagem ✈️, porque às vezes a melhor solução é dar um COMMIT na rotina e fazer um PUSH para novos horizontes! 
+
 Acredito que a tecnologia é uma conversa contínua: com as perguntas certas, as soluções surgem de forma orgânica.
 
 
